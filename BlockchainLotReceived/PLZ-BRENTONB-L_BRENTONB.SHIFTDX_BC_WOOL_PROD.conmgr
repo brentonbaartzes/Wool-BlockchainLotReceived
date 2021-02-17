@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="PLZ-BRENTONB-L_BRENTONB.SHIFTDX_BC_WOOL_PROD"
+  DTS:DTSID="{0171E157-04D9-4D7D-8EBC-6B7E3909523F}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=10.0.65.39;Initial Catalog=SHIFTDX_BC_WOOL_PROD;Integrated Security=True;Application Name=SSIS-BlockchainLotReceived-{0171E157-04D9-4D7D-8EBC-6B7E3909523F}PLZ-BRENTONB-L\BRENTONB.SHIFTDX_BC_WOOL_DEV;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

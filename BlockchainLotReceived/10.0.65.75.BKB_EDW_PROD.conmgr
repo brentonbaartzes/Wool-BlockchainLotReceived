@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="10.0.65.75.BKB_EDW_PROD"
+  DTS:DTSID="{FD10FD16-36E2-45AD-9536-650E87EB15EB}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=ZAPLZBKB-BI;Initial Catalog=BKB_EDW_PROD;Integrated Security=True;Application Name=SSIS-{FD10FD16-36E2-45AD-9536-650E87EB15EB}10.0.65.75.BKB_EDW_PROD;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
